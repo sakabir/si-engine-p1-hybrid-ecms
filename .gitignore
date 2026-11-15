@@ -1,0 +1,19 @@
+# MATLAB / Simulink
+*.asv
+*.autosave
+*.slxc
+slprj/
+*.mexw64
+*.bak*
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+# Data you should not redistribute
+data/*.csv
+# OS
+desktop.ini
+.DS_Store
+~$*
+.~lock*
